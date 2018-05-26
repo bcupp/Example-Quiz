@@ -1,0 +1,91 @@
+#header {
+  padding-top: 40px;
+  padding-bottom: 10px;
+  font-weight: bold;
+}
+
+#quizQuestion {
+  margin-top: 10px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.answerA {
+  background-color: white;
+  border-radius: 50%;
+  border: 8px solid #CD8A3E;
+  height: 200px;
+  width: 200px;
+  padding-top: 25%;
+  margin-top: 25px;
+  font-weight: bold;
+  font-size: 25px;
+  margin-left: 15px;
+  margin-right: 15px;
+}
+
+.answerAHover {
+  background-color: #CD8A3E;
+}
+
+.answerASelect {
+  color: white;
+}
+
+.answerB {
+  background-color: white;
+  border-radius: 50%;
+  border: 8px solid #4796CE;
+  height: 200px;
+  width: 200px;
+  padding-top: 25%;
+  margin-top: 25px;
+  font-weight: bold;
+  font-size: 25px;
+  margin-left: 15px;
+  margin-right: 15px;
+}
+
+.answerBHover {
+  background-color: #4796CE;
+}
+
+.answerBSelect {
+  color: white;
+}
+
+#results {
+  margin-top: 40px;
+  margin-bottom: 25px;
+  background-color: #808080;
+  border-radius: 10px;
+}
+
+#resultsTitle {
+  padding-top: 20px;
+  padding-bottom: 10px;
+  letter-spacing: 1px;
+}
+
+.resultsTitleCorrect {
+  color: #5bae8a;
+}
+
+.resultsTitleIncorrect {
+  color: #ed1029;
+}
+
+#resultsBody {
+  color: #403c40;
+}
+
+#nextButton {
+  background-color: #ed1029;
+  color: white;
+  border-radius: 2px;
+  width: 225px;
+  margin-top: 25px;
+  margin-bottom: 50px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
