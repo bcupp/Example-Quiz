@@ -69,10 +69,12 @@
 
 .resultsTitleCorrect {
   color: #5bae8a;
+  font-weight: bold;
 }
 
 .resultsTitleIncorrect {
-  color: #ed1029;
+  color: #a90300;
+  font-weight: bold;
 }
 
 #resultsBody {
